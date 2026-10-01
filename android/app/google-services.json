@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "55860109129",
+    "project_id": "dermasense-accounts",
+    "storage_bucket": "dermasense-accounts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55860109129:android:16b7eee7bff325605fc498",
+        "android_client_info": {
+          "package_name": "com.mycompany.fypskindiagnosisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55860109129-0pah103roo32fsnms6n088f9njlm18ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCWdhLiHUQ5-KLlB-rY_eQ_7v0sm5sMao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55860109129-0pah103roo32fsnms6n088f9njlm18ve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55860109129-r4frjlau6s463f8r3o34ubicfbu2b0j9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.fypskindiagnosisapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
